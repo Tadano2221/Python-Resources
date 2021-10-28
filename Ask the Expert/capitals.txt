@@ -1,0 +1,21 @@
+Myanmar/Naypyidaw
+Thailand/Bangkok
+Laos/Vietiane
+Bangladesh/Dhaka
+India/New Delhi
+China/Bejing
+Russia/Moscow
+USA/Washington DC
+UK/London
+Italy/Rome
+France/Paris
+Germany/Berlin
+Singapore/Singapore
+Denmark/Copenhagen
+Saudi Arabia/Riyadh
+Spain/Madrid
+Portugal/Lisbon
+Egypt/Cairo
+Ethiopia/Addis Ababa
+Brasil/Brasilia
+Ethipoia/
